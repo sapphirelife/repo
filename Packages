@@ -1,5 +1,5 @@
-Package: com.cokepokes.appstoreplus
-Version: 3.4
+Package: com.cokepokes.animeplus
+Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: @hakku@gmail.com>
 Depends: mobilesubstrate
@@ -39,9 +39,9 @@ MD5sum: 08a067a3001cca99120d1abc854d3e70
 SHA1: f9ce4395d29a6dfe856beade3fc833f5e4a878e1
 SHA256: 430cd54856b83c1c60f4634109800da9257167f2786534e89e76f0893b8c84a6
 Section: Tweaks
-Description: Change poor default youtube quality to HD.
+Description: Lifetime Subscription.
 Author: Hakku
-Name: YTD_Unlocker
+Name: Betternet Lifetime
 
 Package: com.hakku.quitall
 Version: 1.4
@@ -49,7 +49,7 @@ Architecture: iphoneos-arm
 Maintainer: @hakku@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/quitall_3.0_iphoneos-arm.deb
-Size: 29
+Size: 199
 MD5sum: 600d01a52f993907f27368e95e9b48e8
 SHA1: 2c6978ebd68a89248853ee7e9ba30bdec01ff118
 SHA256: 66b5bf21f84e2b88f1be8c2b67c41dae85ea50bc293e444d7f2c4c30209f6755
@@ -84,9 +84,9 @@ MD5sum: 907f1cca3d1b18bee649a7e3ffc59df7
 SHA1: 2c25b305a2655fa4e4f4ba2d508ce1997bbfd8ce
 SHA256: c1337ceba3e6653b821985ed9fdb373a1ffd04b87f116a9874626e8c61f591b3
 Section: Tweaks
-Description: Pick up on active device.
+Description: Delete directly without trash for restore.
 Author: Hakku
-Name: Delete directly without trash for restore
+Name: Delete Forever
 
 Package: com.hakku.hestia
 Version: 1.0.1
@@ -102,3 +102,94 @@ Section: Tweaks
 Description: ByPass JB Detection
 Author: Hakku
 Name: Hestia
+
+Package: com.hakku.doubletaplock
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/doubletaplock_2.0.0_iphoneos-arm.deb
+Size: 79
+MD5sum: 9db9c69a6222f71c73bce80d1bc5792e
+SHA1: 18d9444cb0c45fc61f1babec2d6f2fefb03d8cbe
+SHA256: 3bb53630e98030bad99d83c656cae3f4fe4ba3bbad7b2f954b5fd223de99c9ac
+Section: Tweaks
+Description: Double Tap to Lock on Home Screen
+Author: Hakku
+Name: DoubleTap
+
+Package: com.hakku.shuffle
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/shuffle_1.3.4_iphoneos-arm.deb
+Size: 458
+MD5sum: 553d20c8abe47224d2799212c40ebee9
+SHA1: 20904bc47f9c8ceb2accc17f2563e51da9708eb8
+SHA256: 8a13b70142a0ff32d80fa51372805129dca7786fdaff1f4ad59cbf120ca0ebf4
+Section: Tweaks
+Description: Re-arrange Tweaks, app and others.
+Author: Hakku
+Name: Shuffle
+
+Package: com.hakku.springtomize
+Version: 5.2.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/springtomize.st5_5.2.4-1_iphoneos-arm.deb
+Size: 713
+MD5sum: dd94d2b44a0becc48b3d1dd44664b7de
+SHA1: ccc3afedd121d3890de655dd6831b83a71767b48
+SHA256: c520800dc1770742290466da748e525a51e55537e061b18d075e17ed8153bea7
+Section: Tweaks
+Description: Best Tweak to modify everything. All in one.
+Author: Hakku
+Name: Springtomize 5
+
+Package: com.hakku.YTpp
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/YTpp_1.4r-106_iphoneos-arm.deb
+Size: 6513
+MD5sum: 4261e13eb959cae1042e5fa76a0792c8
+SHA1: 1925f56ba1fec6ed288b7f380f7710fa662e4be3
+SHA256: eb56c407bc079dc1084f0bafb6dd0aa5dfe9cc2ef278fc566a2623ed579bc9e2
+Section: Tweaks
+Description: Tweaks for Youtube
+Author: Hakku
+Name: Youtube++
+
+Package: com.hakku.Powerdown
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/powerdownoptions_1.1.3-2+debug_iphoneos-arm.deb
+Size: 11
+MD5sum: 1ea366a68375c106fd42e5cbc233b99f
+SHA1: 94982914d7ee9d622b69c3eebe7b0bb56609baae
+SHA256: e16e18e9c4d0b5def3dd380dd53d175df82c4c249d733c3d692429a40be3f5e8
+Section: Tweaks
+Description: Enable Respring, shutdown, reboot.
+Author: Hakku
+Name: PowerdownOption
+
+Package: com.hakku.spotify++
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/spotilife_1.5_iphoneos-arm.deb
+Size: 199
+MD5sum: b643a22aaaf3d941d0b94f20d87d7860
+SHA1: 7885e0ec073436183508f461cbba8133003b5f82
+SHA256: 14309add3d520aa93d15cc1c540bca08289ecdd48af375fb802076ffe5413aab
+Section: Tweaks
+Description: Spotify Premium
+Author: Hakku
+Name: Spotify++
+
