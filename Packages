@@ -13,3 +13,32 @@ Description: Speed up your launcher. Never like before.
 Author: Hakku
 Name: AnimPlus
 
+Package: com.hakku.answeron.headphones
+Version: 1.03
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/answeronheadphones_1.0.3_iphoneos-arm.deb
+Size: 14
+MD5sum: 678bc7eb7420ffc464e319834bc85e71
+SHA1: 2c25b305a2655fa4e4f4ba2d508ce1997bbfd8ce
+SHA256: c1337ceba3e6653b821985ed9fdb373a1ffd04b87f116a9874626e8c61f591b3
+Section: Tweaks
+Description: Pick up on active device.
+Author: Hakku
+Name: Answer On Headphone
+
+Package: com.hakku.hestia
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/hestia_1.0.1_iphoneos-arm.deb
+Size: 375
+MD5sum: 678bc7eb7420ffc464e319834bc85e79
+SHA1: 4dde1d9dcb8ce33d1c4210d6dc53710afb17b622
+SHA256: f1879a1c7e4b16b364a50e77af9987dce17e0584e52ab2e010eb9b3156387c4b
+Section: Tweaks
+Description: ByPass JB Detection
+Author: Hakku
+Name: Hestia
