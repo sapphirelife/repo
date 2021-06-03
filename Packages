@@ -1,15 +1,15 @@
-Package: com.animplus_2.4_iphoneos
+Package: com.cokepokes.appstoreplus
 Version: 3.4
 Architecture: iphoneos-arm
 Maintainer: @hakku@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.animplus_2.4_iphoneos-arm.deb
+Filename: ./debs/animplus_2.4_iphoneos-arm.deb
 Size: 121
 MD5sum: ba2e05d6245a85e9fc1700d8e4ea001a
 SHA1: de6b8bc1dddafb699a1ff88b7599793fe2062076
 SHA256: ad96e874590c8033741742282227ba2ee38332c9e04d6851a24945b473235d9e
 Section: Tweaks
 Description: Speed up your launcher. Never like before.
-Author: @hakku
+Author: Hakku
 Name: AnimPlus
 
