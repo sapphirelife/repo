@@ -13,6 +13,51 @@ Description: Speed up your launcher. Never like before.
 Author: Hakku
 Name: AnimPlus
 
+Package: com.hakku.ythdunlocker
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/ythdunlocker_0.0~beta1b_iphoneos-arm.deb
+Size: 22
+MD5sum: 5c114a4697dd39d1a4a86b58925d5085
+SHA1: 404d45631c60bb97317c1a90f37048e35a85b037
+SHA256: 29f1b92568a025c74f533cb978d2cbc403120691d5dc2fd384df9eb9f46f4705
+Section: Tweaks
+Description: Change poor default youtube quality to HD.
+Author: Hakku
+Name: YTD_Unlocker
+
+Package: com.hakku.betternetlifetime
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/betternetlifetime_1.4_iphoneos-arm.deb
+Size: 29
+MD5sum: 08a067a3001cca99120d1abc854d3e70
+SHA1: f9ce4395d29a6dfe856beade3fc833f5e4a878e1
+SHA256: 430cd54856b83c1c60f4634109800da9257167f2786534e89e76f0893b8c84a6
+Section: Tweaks
+Description: Change poor default youtube quality to HD.
+Author: Hakku
+Name: YTD_Unlocker
+
+Package: com.hakku.quitall
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/quitall_3.0_iphoneos-arm.deb
+Size: 29
+MD5sum: 600d01a52f993907f27368e95e9b48e8
+SHA1: 2c6978ebd68a89248853ee7e9ba30bdec01ff118
+SHA256: 66b5bf21f84e2b88f1be8c2b67c41dae85ea50bc293e444d7f2c4c30209f6755
+Section: Tweaks
+Description: Clear Screen with single click
+Author: Hakku
+Name: Quit All
+
 Package: com.hakku.answeron.headphones
 Version: 1.03
 Architecture: iphoneos-arm
@@ -20,13 +65,28 @@ Maintainer: @hakku@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/answeronheadphones_1.0.3_iphoneos-arm.deb
 Size: 14
-MD5sum: 678bc7eb7420ffc464e319834bc85e71
+MD5sum: 6727fa0f86cc3eb5b0d0aecfca9bb519
 SHA1: 2c25b305a2655fa4e4f4ba2d508ce1997bbfd8ce
 SHA256: c1337ceba3e6653b821985ed9fdb373a1ffd04b87f116a9874626e8c61f591b3
 Section: Tweaks
 Description: Pick up on active device.
 Author: Hakku
 Name: Answer On Headphone
+
+Package: com.hakku.deleteforeverxs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/deleteforeverxs_1.1_iphoneos-arm.deb
+Size: 10
+MD5sum: 907f1cca3d1b18bee649a7e3ffc59df7
+SHA1: 2c25b305a2655fa4e4f4ba2d508ce1997bbfd8ce
+SHA256: c1337ceba3e6653b821985ed9fdb373a1ffd04b87f116a9874626e8c61f591b3
+Section: Tweaks
+Description: Pick up on active device.
+Author: Hakku
+Name: Delete directly without trash for restore
 
 Package: com.hakku.hestia
 Version: 1.0.1
