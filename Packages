@@ -1,4 +1,4 @@
-Package: com.cokepokes.animeplus
+Package: com.hakku.animplus
 Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: @hakku@gmail.com>
@@ -23,7 +23,7 @@ Size: 22
 MD5sum: 5c114a4697dd39d1a4a86b58925d5085
 SHA1: 404d45631c60bb97317c1a90f37048e35a85b037
 SHA256: 29f1b92568a025c74f533cb978d2cbc403120691d5dc2fd384df9eb9f46f4705
-Section: Tweaks
+Section: Youtube
 Description: Change poor default youtube quality to HD.
 Author: Hakku
 Name: YTD_Unlocker
@@ -38,7 +38,7 @@ Size: 29
 MD5sum: 08a067a3001cca99120d1abc854d3e70
 SHA1: f9ce4395d29a6dfe856beade3fc833f5e4a878e1
 SHA256: 430cd54856b83c1c60f4634109800da9257167f2786534e89e76f0893b8c84a6
-Section: Tweaks
+Section: Premium
 Description: Lifetime Subscription.
 Author: Hakku
 Name: Betternet Lifetime
@@ -98,7 +98,7 @@ Size: 375
 MD5sum: 678bc7eb7420ffc464e319834bc85e79
 SHA1: 4dde1d9dcb8ce33d1c4210d6dc53710afb17b622
 SHA256: f1879a1c7e4b16b364a50e77af9987dce17e0584e52ab2e010eb9b3156387c4b
-Section: Tweaks
+Section: Bypass
 Description: ByPass JB Detection
 Author: Hakku
 Name: Hestia
@@ -158,7 +158,7 @@ Size: 6513
 MD5sum: 4261e13eb959cae1042e5fa76a0792c8
 SHA1: 1925f56ba1fec6ed288b7f380f7710fa662e4be3
 SHA256: eb56c407bc079dc1084f0bafb6dd0aa5dfe9cc2ef278fc566a2623ed579bc9e2
-Section: Tweaks
+Section: Youtube
 Description: Tweaks for Youtube
 Author: Hakku
 Name: Youtube++
@@ -188,8 +188,70 @@ Size: 199
 MD5sum: b643a22aaaf3d941d0b94f20d87d7860
 SHA1: 7885e0ec073436183508f461cbba8133003b5f82
 SHA256: 14309add3d520aa93d15cc1c540bca08289ecdd48af375fb802076ffe5413aab
-Section: Tweaks
+Section: Premium
 Description: Spotify Premium
 Author: Hakku
 Name: Spotify++
+
+Package: com.hakku.shylabels
+Version: 13.4.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/shylabels13_1.4_iphoneos-arm.deb
+Size: 74
+MD5sum: 4f33764de84cea8ddf1efd8e4fcc280c
+SHA1: afb9cd443f1480b971ca1ccde56a5fb1497c7e7c
+SHA256: 9736030b3d9390f85f3a6c1bb845de8406530c66643614a81ad4b16b2a3d6233
+Section: Tweaks
+Description: Hide the label within 2 second
+Author: Hakku
+Name: Shylabels
+
+Package: com.hakku.Nowplaying
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/nowplayingicon_1.3.1_iphoneos-arm.deb
+Size: 13
+MD5sum: 59a692ec66336c0ec0eaf8559a75758b
+SHA1: 282e6dc47ae45b6209d4950110d3b407a4f3d8b7
+SHA256: a4bade2caa62d4dd704f5de120e14c72b31314af5afec5c2f0e42f87aff6666f
+Section: Tweaks
+Description: Make player icon change.
+Author: Hakku
+Name: Now Playing Icon
+
+Package: com.hakku.watchmute
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/watchmutemirror_1.1.3_iphoneos-arm.deb
+Size: 73
+MD5sum: 288dedef00ff0c8d616a0175cf984cbf
+SHA1: 56fb72439944081d1fa1f10388979abc67ec61ce
+SHA256: b4191f3fd36f34d6d539c4ddf3b16599db7f5ae6e439f5313afd5c760aaf74dc
+Section: Tweaks
+Description: Mirror watch mute mode on iDevices
+Author: Hakku
+Name: WatchMuteMirror
+
+Package: com.hakku.settingwidgets
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/Settingswidgets_1.2.2_iphoneos-arm.deb
+Size: 98
+MD5sum: 72fbb60de6405f08197535ecd1683228
+SHA1: 4bd01cb1837eb6d6e491f66fc87d19746b57e5d5
+SHA256: b5027a60b2e0296ebfa9ae600e6fcf52f13bf403608bfe97730111340878030b
+Section: Tweaks
+Description: Mirror watch mute mode on iDevices
+Author: Hakku
+Name: SettingsWidget
+
+
 
