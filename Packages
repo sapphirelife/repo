@@ -13,36 +13,6 @@ Description: Speed up your launcher. Never like before.
 Author: Hakku
 Name: AnimPlus
 
-Package: com.hakku.ythdunlocker
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: @hakku@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/ythdunlocker_0.0~beta1b_iphoneos-arm.deb
-Size: 22
-MD5sum: 5c114a4697dd39d1a4a86b58925d5085
-SHA1: 404d45631c60bb97317c1a90f37048e35a85b037
-SHA256: 29f1b92568a025c74f533cb978d2cbc403120691d5dc2fd384df9eb9f46f4705
-Section: Youtube
-Description: Change poor default youtube quality to HD.
-Author: Hakku
-Name: YTD_Unlocker
-
-Package: com.hakku.betternetlifetime
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: @hakku@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/betternetlifetime_1.4_iphoneos-arm.deb
-Size: 29
-MD5sum: 08a067a3001cca99120d1abc854d3e70
-SHA1: f9ce4395d29a6dfe856beade3fc833f5e4a878e1
-SHA256: 430cd54856b83c1c60f4634109800da9257167f2786534e89e76f0893b8c84a6
-Section: Premium
-Description: Lifetime Subscription.
-Author: Hakku
-Name: Betternet Lifetime
-
 Package: com.hakku.quitall
 Version: 1.4
 Architecture: iphoneos-arm
@@ -57,6 +27,66 @@ Section: Tweaks
 Description: Clear Screen with single click
 Author: Hakku
 Name: Quit All
+
+Package: com.hakku.killx
+Version: 3.02
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/killx-pro_3.0.2_iphoneos-arm.deb
+Size: 193
+MD5sum: 4e58eca5693803bb216c620e03c9a106
+SHA1: 4657fc761a4a73c482d62a003984f862dc6f3842
+SHA256: 6b5e19af871e53e898f4dc0b666a85cdeb71a1930345ee7dabf20a462a1bf4fc
+Section: Tweaks
+Description: One click Kill
+Author: Hakku
+Name: Killx
+
+Package: com.hakku.scorpion
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/scorpion_1.4.2_iphoneos-arm.deb
+Size: 816
+MD5sum: 8d6a50c791021ccb033c14ac60d22abb
+SHA1: e430723f7c907a078ac78e8f484ce00c405157b1
+SHA256: 5ed71023ccc77866a0e05bfa49a1ee85c48dc814349d2fa5d0dd3b768eab87ae
+Section: Tweaks
+Description: Call bar new interface
+Author: Hakku
+Name: Scorpion
+
+Package: com.hakku.betteralarm
+Version: 3.02
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/betteralarm_1.2.5_iphoneos-arm.deb
+Size: 44
+MD5sum: 346df9b15e1398a5e4d23e63e100f7f8
+SHA1: d959437c80bd6c56417a66373d1c79a738bb2d90
+SHA256: 3c6f64bd6a2eef2ae3ba6e61e9bcd1d12697278439b8d842fe377d755c676388
+Section: Tweaks
+Description: New alarm UI
+Author: Hakku
+Name: BetterAlarm
+
+Package: com.hakku.Powerdown
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/powerdownoptions_1.1.3-2+debug_iphoneos-arm.deb
+Size: 11
+MD5sum: 1ea366a68375c106fd42e5cbc233b99f
+SHA1: 94982914d7ee9d622b69c3eebe7b0bb56609baae
+SHA256: e16e18e9c4d0b5def3dd380dd53d175df82c4c249d733c3d692429a40be3f5e8
+Section: Tweaks
+Description: Enable Respring, shutdown, reboot.
+Author: Hakku
+Name: PowerdownOption
 
 Package: com.hakku.answeron.headphones
 Version: 1.03
@@ -88,21 +118,6 @@ Description: Delete directly without trash for restore.
 Author: Hakku
 Name: Delete Forever
 
-Package: com.hakku.hestia
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: @hakku@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/hestia_1.0.1_iphoneos-arm.deb
-Size: 375
-MD5sum: 678bc7eb7420ffc464e319834bc85e79
-SHA1: 4dde1d9dcb8ce33d1c4210d6dc53710afb17b622
-SHA256: f1879a1c7e4b16b364a50e77af9987dce17e0584e52ab2e010eb9b3156387c4b
-Section: Bypass
-Description: ByPass JB Detection
-Author: Hakku
-Name: Hestia
-
 Package: com.hakku.doubletaplock
 Version: 2.0
 Architecture: iphoneos-arm
@@ -117,6 +132,36 @@ Section: Tweaks
 Description: Double Tap to Lock on Home Screen
 Author: Hakku
 Name: DoubleTap
+
+Package: com.hakku.watchmute
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/watchmutemirror_1.1.3_iphoneos-arm.deb
+Size: 73
+MD5sum: 288dedef00ff0c8d616a0175cf984cbf
+SHA1: 56fb72439944081d1fa1f10388979abc67ec61ce
+SHA256: b4191f3fd36f34d6d539c4ddf3b16599db7f5ae6e439f5313afd5c760aaf74dc
+Section: Tweaks
+Description: Mirror watch mute mode on iDevices
+Author: Hakku
+Name: WatchMuteMirror
+
+Package: com.hakku.indy
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/indy_1.2.0_iphoneos-arm.deb
+Size: 278
+MD5sum: 05173b1a88951cb7ec2a571fece7040f
+SHA1: 4694f848afb01f76b6ff56eb1a0a91dae58a35d9
+SHA256: 9afb4579722f98f09493ab52cf7f4f4e445c843414d6ffb5310d2259a67f439c
+Section: Tweaks
+Description: Shows current date with TAP on status bar, carrier name, wifi name & battery %.
+Author: Hakku
+Name: Indy
 
 Package: com.hakku.shuffle
 Version: 1.3.4
@@ -158,25 +203,25 @@ Size: 6513
 MD5sum: 4261e13eb959cae1042e5fa76a0792c8
 SHA1: 1925f56ba1fec6ed288b7f380f7710fa662e4be3
 SHA256: eb56c407bc079dc1084f0bafb6dd0aa5dfe9cc2ef278fc566a2623ed579bc9e2
-Section: Youtube
+Section: Multimedia
 Description: Tweaks for Youtube
 Author: Hakku
 Name: Youtube++
 
-Package: com.hakku.Powerdown
-Version: 1.2.4
+Package: com.hakku.ythdunlocker
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: @hakku@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/powerdownoptions_1.1.3-2+debug_iphoneos-arm.deb
-Size: 11
-MD5sum: 1ea366a68375c106fd42e5cbc233b99f
-SHA1: 94982914d7ee9d622b69c3eebe7b0bb56609baae
-SHA256: e16e18e9c4d0b5def3dd380dd53d175df82c4c249d733c3d692429a40be3f5e8
-Section: Tweaks
-Description: Enable Respring, shutdown, reboot.
+Filename: ./debs/ythdunlocker_0.0~beta1b_iphoneos-arm.deb
+Size: 22
+MD5sum: 5c114a4697dd39d1a4a86b58925d5085
+SHA1: 404d45631c60bb97317c1a90f37048e35a85b037
+SHA256: 29f1b92568a025c74f533cb978d2cbc403120691d5dc2fd384df9eb9f46f4705
+Section: Multimedia
+Description: Change poor default youtube quality to HD.
 Author: Hakku
-Name: PowerdownOption
+Name: YTD_Unlocker
 
 Package: com.hakku.spotify++
 Version: 1.2.4
@@ -188,25 +233,10 @@ Size: 199
 MD5sum: b643a22aaaf3d941d0b94f20d87d7860
 SHA1: 7885e0ec073436183508f461cbba8133003b5f82
 SHA256: 14309add3d520aa93d15cc1c540bca08289ecdd48af375fb802076ffe5413aab
-Section: Premium
+Section: Multimedia
 Description: Spotify Premium
 Author: Hakku
 Name: Spotify++
-
-Package: com.hakku.shylabels
-Version: 13.4.4
-Architecture: iphoneos-arm
-Maintainer: @hakku@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/shylabels13_1.4_iphoneos-arm.deb
-Size: 74
-MD5sum: 4f33764de84cea8ddf1efd8e4fcc280c
-SHA1: afb9cd443f1480b971ca1ccde56a5fb1497c7e7c
-SHA256: 9736030b3d9390f85f3a6c1bb845de8406530c66643614a81ad4b16b2a3d6233
-Section: Tweaks
-Description: Hide the label within 2 second
-Author: Hakku
-Name: Shylabels
 
 Package: com.hakku.Nowplaying
 Version: 1.3.4
@@ -218,25 +248,85 @@ Size: 13
 MD5sum: 59a692ec66336c0ec0eaf8559a75758b
 SHA1: 282e6dc47ae45b6209d4950110d3b407a4f3d8b7
 SHA256: a4bade2caa62d4dd704f5de120e14c72b31314af5afec5c2f0e42f87aff6666f
-Section: Tweaks
+Section: Multimedia
 Description: Make player icon change.
 Author: Hakku
 Name: Now Playing Icon
 
-Package: com.hakku.watchmute
-Version: 1.1.3
+Package: com.hakku.cercube
+Version: 5.2.23
 Architecture: iphoneos-arm
 Maintainer: @hakku@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/watchmutemirror_1.1.3_iphoneos-arm.deb
-Size: 73
-MD5sum: 288dedef00ff0c8d616a0175cf984cbf
-SHA1: 56fb72439944081d1fa1f10388979abc67ec61ce
-SHA256: b4191f3fd36f34d6d539c4ddf3b16599db7f5ae6e439f5313afd5c760aaf74dc
-Section: Tweaks
-Description: Mirror watch mute mode on iDevices
+Filename: ./debs/cercube_5.2.23_iphoneos-arm.deb
+Size: 3713
+MD5sum: 971846058023088c8a73e03f34bf9470
+SHA1: dacf317d5654581aa982b3e7ae61d715983ca314
+SHA256: 7d38a012e9a0e50788cda223d5be0d6b35c3e41af0a24c1473547839a228ae34
+Section: Multimedia
+Description: Youtube with more tweaks no ads
 Author: Hakku
-Name: WatchMuteMirror
+Name: Cercube
+
+Package: com.hakku.playour
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/playour_1.4.3_iphoneos-arm.deb
+Size: 74
+MD5sum: 946210646f1fa57b5e74959f26f92509
+SHA1: 32d14bdab4d1cca2cc0640bd486c850e93edcd5b
+SHA256: b00801ea745d8cfd89c3233059e0d62bf6ecd73a0fd76f0dabc1e2ddb6b9a025
+Section: Multimedia
+Description: Music player background color change based on artist.
+Author: Hakku
+Name: Playour
+
+Package: com.hakku.flow
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/flow_1.2.2_iphoneos-arm.deb
+Size: 164
+MD5sum: b66038b15d079dc92172b0d81760e14b
+SHA1: bb5aa5cea0424f3a8770252ee56886b10b6d637c
+SHA256: 3ae2ffa1897260d3cffa19f44e365073403fd84cfccb056abfbb518159ef81eb
+Section: Multimedia
+Description: Music player swipe change stunning effect.
+Author: Hakku
+Name: Flow
+
+Package: com.hakku.lumi
+Version: 1.4.9
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/lumi_1.4.9_iphoneos-arm.deb
+Size: 2522
+MD5sum: 31082ea8b6a6facf580d890c8e9cfded
+SHA1: dc38d018dee41c162c15f85cf50c96205246405b
+SHA256: bde3710d9d3af9721554b02ec7ab8e7977f4a52cadd3d88b1b664478fecf7f3e
+Section: Multimedia
+Description: Low light photography tweak
+Author: Hakku
+Name: Lumi
+
+Package: com.hakku.manta
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/manta_1.0.3_iphoneos-arm.deb
+Size: 98
+MD5sum: 708e113e50b150b996daaa4069a68e76
+SHA1: e76c580d0796ae4490ae62187a1654d015358ea6
+SHA256: 3e732db02b1f2828b7917ae849610781963f77451734371cee668234c3fb4ec2
+Section: Themes
+Description: Redesign your lock screen! Up next calender and weather info at glance.
+Author: Hakku
+Name: Manta
 
 Package: com.hakku.settingwidgets
 Version: 1.2.2
@@ -248,10 +338,178 @@ Size: 98
 MD5sum: 72fbb60de6405f08197535ecd1683228
 SHA1: 4bd01cb1837eb6d6e491f66fc87d19746b57e5d5
 SHA256: b5027a60b2e0296ebfa9ae600e6fcf52f13bf403608bfe97730111340878030b
-Section: Tweaks
+Section: Themes
 Description: Mirror watch mute mode on iDevices
 Author: Hakku
 Name: SettingsWidget
+
+Package: com.hakku.shylabels
+Version: 13.4.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/shylabels13_1.4_iphoneos-arm.deb
+Size: 74
+MD5sum: 4f33764de84cea8ddf1efd8e4fcc280c
+SHA1: afb9cd443f1480b971ca1ccde56a5fb1497c7e7c
+SHA256: 9736030b3d9390f85f3a6c1bb845de8406530c66643614a81ad4b16b2a3d6233
+Section: Themes
+Description: Hide the label within 2 second
+Author: Hakku
+Name: Shylabels
+
+Package: com.hakku.cozybadge
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/cozybadges_1.2.3_iphoneos-arm.deb
+Size: 47
+MD5sum: cf1ac9c81e34c8dd3c79a232decc8168
+SHA1: 3d092c090444ea89c067f9dfc2e88ba9d2e7c8d3
+SHA256: f6c0dcf575b833b6b78e3474273daff1cd26d1e19e10b85b5de41280513cad87
+Section: Themes
+Description: Shows notification below App Icon
+Author: Hakku
+Name: Cozy Badges
+
+Package: com.hakku.dayn
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/dayn_1.2.1_iphoneos-arm.deb
+Size: 461
+MD5sum: ba2172378937b63ac44435cdd8f580bb
+SHA1: 79d6b38c58ab89f1901085338b45192b17adea6b
+SHA256: c4e50870e81548477f4e8c5d1e6359d0bf7f8d41e70ec3982df3dfc358f01d0c
+Section: Themes
+Description: Shows notification banner in new way.
+Author: Hakku
+Name: Dayn
+
+Package: com.hakku.yokumaru
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/yokumiru_1.8_iphoneos-arm.deb
+Size: 832
+MD5sum: fe91d504aba81e13b0a0c4861d92ece6
+SHA1: 377b5eff102d22b3376b6fddba76e67c96c10dcc
+SHA256: e546b5eb04eb54af0dc981c11e56b119483b7835207d61dd6275aac4b0bcfb1b
+Section: Themes
+Description: Animate incoming notification with badge
+Author: Hakku
+Name: Yokumiru
+
+Package: com.hakku.noctis
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/noctis13_1.2.9_iphoneos-arm.deb
+Size: 72
+MD5sum: 34ac8f76780ea99e80c9d6b4d13bb3c1
+SHA1: 963968af77beedf5d97b81def208dbb41380a601
+SHA256: 7b12af13bc6907ac13dc44dedb7e1cf7f5a88aab540aa697345e62ed930bf3eb
+Section: Themes
+Description: True Dark OLED companion
+Author: Hakku
+Name: Noctis Neo
+
+Package: com.hakku.groupi
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/grupi_2.1_iphoneos-arm.deb
+Size: 138
+MD5sum: c0ee6d940c95f95a03a5674c4899e6be
+SHA1: f20a74596dbf9c7bdfe7ba45bdb55bb943018899
+SHA256: 56910d994f403776e6f41adedc9036386017d3956dc9150bb5262e4a2a882b43
+Section: Themes
+Description: Apple like complication on Lockscreen
+Author: Hakku
+Name: Grupi
+
+Package: com.hakku.lastlook
+Version: 3.2.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/lastlook_3.2.3_iphoneos-arm.deb
+Size: 228
+MD5sum: dc1665ab16220d82628cf5ae109066f5
+SHA1: e2a70cb9164d21d489158b877f4dd030574d8f2d
+SHA256: c030570de92f34b2b143d13448079e83b2360a4e76c6fc3fde3d0faca6ee2e9e
+Section: Themes
+Description: Quick look on OLED
+Author: Hakku
+Name: Lastlook
+
+Package: com.hakku.velveet
+Version: 3.2.3
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/velvet_1.3.1_iphoneos-arm.deb
+Size: 167
+MD5sum: 6afff834612efbf7d1992bd828366159
+SHA1: cf5125df4f5a3b276daad12667afbfa32f39b585
+SHA256: 387dac6e4cbb63be7c2787be3d2dfcd742ba02468e4acfb5495e0765658062ea
+Section: Themes
+Description: Give new look notification banner 
+Author: Hakku
+Name: Velvet
+
+Package: com.hakku.appst
+Version: 0.9.16
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 2955
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
+Section: Utilities
+Description: Lets you downgrade your App from official Appstore
+Author: Hakku
+Name: Appstore++
+
+
+Package: com.hakku.betternetlifetime
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/betternetlifetime_1.4_iphoneos-arm.deb
+Size: 29
+MD5sum: 08a067a3001cca99120d1abc854d3e70
+SHA1: f9ce4395d29a6dfe856beade3fc833f5e4a878e1
+SHA256: 430cd54856b83c1c60f4634109800da9257167f2786534e89e76f0893b8c84a6
+Section: Utilities
+Description: Lifetime Subscription.
+Author: Hakku
+Name: Betternet Lifetime
+
+Package: com.hakku.hestia
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: @hakku@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/hestia_1.0.1_iphoneos-arm.deb
+Size: 375
+MD5sum: 678bc7eb7420ffc464e319834bc85e79
+SHA1: 4dde1d9dcb8ce33d1c4210d6dc53710afb17b622
+SHA256: f1879a1c7e4b16b364a50e77af9987dce17e0584e52ab2e010eb9b3156387c4b
+Section: Utilities
+Description: ByPass JB Detection
+Author: Hakku
+Name: Hestia
+
+
 
 
 
